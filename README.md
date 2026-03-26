@@ -1,1 +1,2 @@
-![sumanentc snake gif](https://github.com/das-arjun/das-arjun/blob/output/github-contribution-grid-snake.svg)
+![sumanentc snake gif](https://github.com/sumanentc/sumanentc/blob/output/github-contribution-grid-snake.svg)
+This is not my graph! https://github.com/sumanentc/sumanentc/blob/output/github-contribution-grid-snake.svg
